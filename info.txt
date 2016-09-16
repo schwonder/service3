@@ -1,0 +1,10 @@
+база данных
+pechatayby
+root
+no password
+
+wordpress
+pechatay.by
+root
+beerman
+petro.vich@mail.ru
